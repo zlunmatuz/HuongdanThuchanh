@@ -2,3 +2,4 @@ Mỗi nhóm tự dán link tới tag "RELEASE bugrep" của repo của nhóm và
 
 __________
 Link nộp:
+https://test from bix
